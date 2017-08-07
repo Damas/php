@@ -1,6 +1,8 @@
 <?php
 
-	echo "Olá Mundo!";
+	echo "Olá Mundo! Vai dar uma merda!";
+
+	echo "Ola bosta"
 
 
 ?>
